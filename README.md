@@ -1,7 +1,7 @@
 # Personal Expenses Tracker 
 
-## Utilizare
--Adauga cheltuieli: Introducerea sumei, a categoriei (ex: mancare, transport, rate) si inregistrarea automata a datei. Salveaza datele intr-un fisier .json. 
+## Ce face:
+-Iti introduci cheltuielile si data la care au fost efectuate,iar programul le salveaza intr-un fisier json. 
 
 -
 ## Rulare program
